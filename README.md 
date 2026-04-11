@@ -1,0 +1,31 @@
+# 🎯 Selenium Python Practice
+
+Python mein Selenium WebDriver automation practice.
+
+## 📚 Topics
+- Form handling
+- Checkbox selection
+- Dropdown handling
+- Wait mechanisms
+- Mouse & keyboard actions
+
+## 🛠️ Setup
+```bash
+pip install -r requirements.txt
+```
+
+## 🚀 Run
+```bash
+python form_submit_success.py
+```
+
+## 📁 Files
+- form_submit_success.py
+- HandlingCheckBox.py
+- dropdown_handle.py
+- html_locators.py
+- locators_1.py
+- WaitDemo.py
+
+---
+Made with ❤️ for learning Selenium
